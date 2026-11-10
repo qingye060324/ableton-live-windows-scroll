@@ -1,0 +1,5 @@
+settings.ini
+*.log
+*.stdout.txt
+*.stderr.txt
+work/
